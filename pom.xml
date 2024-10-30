@@ -11,4 +11,12 @@
         <maven.compiler.target>22</maven.compiler.target>
         <exec.mainClass>com.mycompany._eng_050_4.App</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>29.0-jre</version>
+        </dependency>
+        <!-- Add more dependencies here as needed -->
+    </dependencies>
 </project>
