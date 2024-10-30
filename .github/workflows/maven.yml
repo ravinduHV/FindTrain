@@ -37,4 +37,4 @@ jobs:
     # Optional: Update the dependency graph
     # If you continue to face issues with the action, consider using the latest version
     - name: Update dependency graph
-      uses: advanced-security/maven-dependency-submission-action@latest
+      uses: advanced-security/maven-dependency-submission-action@v3
